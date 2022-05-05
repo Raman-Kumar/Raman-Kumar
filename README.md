@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://github.com/kogisin/kogisin/blob/main/gifs/hi.gif" width="30px">
 
 <!--
 **Raman-Kumar/Raman-Kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
