@@ -1,4 +1,10 @@
-### Hi there <img src="https://github.com/kogisin/kogisin/blob/main/gifs/hi.gif" width="30px">
+### Hi there ![](./res/hi.gif)
+
+## Contributed to PyTorch
+![PyTorch Contribution screenshot](./res/pytorchPR.png)
+
+My contribution is reviewed by Kulin Seth who presented a list of ops. One of the ops, which I contribued to, is median. 
+![Presented on PyTorch 2022 Conference](./res/pytorchPR.png)
 
 <!--
 **Raman-Kumar/Raman-Kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
