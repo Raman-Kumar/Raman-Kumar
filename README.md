@@ -6,7 +6,7 @@ Written C++, Object-C and Python code (check here
 
 <img width="700" alt="pytorchPR" src="https://user-images.githubusercontent.com/32980600/207632514-1e17d176-d475-4bdd-b9b6-8d942f268e82.png">
 
-#### My contribution is reviewed by Kulin Seth who presented a list of ops implemented for Metal GPU family at PyTorch Conference 2022. One of the ops, which I contribued to, is torch.median(mps_inputTensor, dim=[int], keepdim=[Bool]) 
+#### My contribution is reviewed by Kulin Seth who presented a list of ops implemented for Metal GPU family at PyTorch Conference 2022. One of the ops, which I contributed to, is torch.median(mps_inputTensor, dim=[int], keepdim=[Bool]) 
 
 <img width="700" alt="pyTorchConferKulin" src="https://user-images.githubusercontent.com/32980600/207632546-ff3a4493-ee90-4a9a-a1e6-93caf5e409ec.png">
 
