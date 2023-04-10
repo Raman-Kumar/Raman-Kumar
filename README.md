@@ -9,12 +9,16 @@ Written C++, Objective-C and Python code (check here
 <img width="700" alt="pyTorchConferKulin" src="https://user-images.githubusercontent.com/32980600/207632546-ff3a4493-ee90-4a9a-a1e6-93caf5e409ec.png">
 
 
+
+
+Someone at AWS California, United States with 9+ years experience, messaged on LinkedIn about my work.
 <img width="483" alt="messageAWS" src="https://user-images.githubusercontent.com/32980600/230939157-775cc5b4-c8a8-41d8-962e-29ef9b0eb821.png">
 
 <!--
 #### My contribution is reviewed by Kulin Seth who presented a list of ops implemented for Metal GPU family at PyTorch Conference 2022. One of the ops, which I contributed to, is torch.median(mps_inputTensor, dim=[int], keepdim=[Bool]) 
 
-Someone at AWS California, United States with 9+ years experience, messaged on LinkedIn about my work.
+
+
 <img width="700" alt="pyTorchConferKulin" src="https://user-images.githubusercontent.com/32980600/207632546-ff3a4493-ee90-4a9a-a1e6-93caf5e409ec.png">
 
 
