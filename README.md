@@ -17,6 +17,11 @@ Written C++, Objective-C and Python code (check here
 
 <img width="483" alt="messageAWS" src="https://user-images.githubusercontent.com/32980600/230939157-775cc5b4-c8a8-41d8-962e-29ef9b0eb821.png">
 
+## GitHub sent me a mail to set up GitHub Sponsors profile
+### Will set up later 
+<img width="535" alt="Screenshot 2023-05-12 at 2 03 52 AM" src="https://github.com/Raman-Kumar/Raman-Kumar/assets/32980600/4950a082-da4b-4e6a-8d76-627582086ece">
+
+
 # right now working on 
 https://github.com/huggingface/transformers/issues/21079
 
