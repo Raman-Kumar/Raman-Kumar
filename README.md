@@ -21,6 +21,8 @@ Written C++, Objective-C and Python code (check here
 ### Will set up later 
 <img width="535" alt="Screenshot 2023-05-12 at 2 03 52 AM" src="https://github.com/Raman-Kumar/Raman-Kumar/assets/32980600/4950a082-da4b-4e6a-8d76-627582086ece">
 
+## Thanks for nice words by Richard Akman at Configu, in Tel Aviv, Israel
+<img width="492" alt="Screenshot 2023-05-21 at 3 58 30 PM" src="https://github.com/Raman-Kumar/Raman-Kumar/assets/32980600/aa511027-e137-4e4b-a32f-1f01bf2f799b">
 
 # right now working on 
 https://github.com/huggingface/transformers/issues/21079
